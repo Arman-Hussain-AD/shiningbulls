@@ -102,9 +102,11 @@ a {
   /*-webkit-tap-highlight-color: transparent;*/
 }
 
-.nav__logo i {
-  font-weight: initial;
-  font-size: 1.25rem;
+.nav__logo img {
+  /* font-weight: initial;
+  font-size: 1.25rem; */
+  width: 3em;
+  padding: 5px;
 }
 
 .nav__toggle {
